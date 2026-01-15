@@ -20,7 +20,7 @@ public class UserInput {
             System.out.println("You are old!");
 
         } else {
-            System.out.println("Ha you baby!");
+            System.out.println("Ha you're a baby!");
 
         }
 
